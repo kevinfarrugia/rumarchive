@@ -3,9 +3,9 @@
 
 SELECT
   VISIBILITYSTATE,
-  COUNT(0) AS FREQ,
-  SUM(COUNT(0)) OVER () AS TOTAL,
-  COUNT(0) / SUM(COUNT(0)) OVER () AS PCT
+  SUM(BEACONS) AS FREQ,
+  SUM(SUM(BEACONS)) OVER () AS TOTAL,
+  SUM(BEACONS) / SUM(SUM(BEACONS)) OVER () AS PCT
 FROM 
   `akamai-mpulse-rumarchive.rumarchive.rumarchive_page_loads`
 WHERE
