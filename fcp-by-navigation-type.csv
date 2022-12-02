@@ -1,0 +1,593 @@
+NAVIGATIONTYPE,BUCKET,COUNT
+,1,741
+,2,1970
+,3,8309
+,4,8573
+,5,7204
+,6,5257
+,7,4009
+,8,3094
+,9,2693
+,10,2276
+,11,2061
+,12,1770
+,13,1622
+,14,1535
+,15,1335
+,16,1267
+,17,1085
+,18,988
+,19,871
+,20,750
+,21,682
+,22,610
+,23,524
+,24,501
+,25,445
+,26,402
+,27,408
+,28,365
+,29,323
+,30,269
+,31,270
+,32,229
+,33,250
+,34,223
+,35,188
+,36,195
+,37,168
+,38,168
+,39,144
+,40,130
+,41,153
+,42,136
+,43,123
+,44,95
+,45,88
+,46,88
+,47,84
+,48,72
+,49,82
+,50,67
+,51,57
+,52,76
+,53,58
+,54,64
+,55,45
+,56,44
+,57,56
+,58,48
+,59,41
+,60,39
+,61,37
+,62,42
+,63,31
+,64,32
+,65,29
+,66,33
+,67,27
+,68,32
+,69,23
+,70,26
+,71,27
+,72,25
+,73,22
+,74,23
+,75,19
+,76,20
+,77,12
+,78,21
+,79,11
+,80,18
+,81,13
+,82,11
+,83,8
+,84,14
+,85,8
+,86,15
+,87,8
+,88,6
+,89,6
+,90,10
+,91,10
+,92,6
+,93,15
+,94,2
+,95,12
+,96,3
+,97,2
+,98,6
+,99,11
+,100,4
+,101,49
+,102,31
+,103,28
+,104,30
+,105,18
+,106,19
+,107,20
+,108,10
+,109,6
+,110,14
+,111,20
+,112,10
+,113,14
+,114,11
+,115,5
+,116,5
+,117,7
+,118,2
+,119,4
+,120,4
+,121,4
+,122,1
+,123,1
+,124,1
+,126,2
+,128,2
+,129,1
+,130,2
+,131,4
+,132,1
+,133,1
+,134,1
+,135,3
+,137,2
+,138,6
+,142,1
+,145,1
+,146,1
+,151,21
+back forward,1,296283
+back forward,2,805184
+back forward,3,1032393
+back forward,4,1076879
+back forward,5,946919
+back forward,6,798621
+back forward,7,678189
+back forward,8,588580
+back forward,9,509773
+back forward,10,452561
+back forward,11,411755
+back forward,12,379143
+back forward,13,344316
+back forward,14,305597
+back forward,15,268682
+back forward,16,232523
+back forward,17,200380
+back forward,18,172028
+back forward,19,148650
+back forward,20,128002
+back forward,21,110321
+back forward,22,95972
+back forward,23,83116
+back forward,24,72433
+back forward,25,62662
+back forward,26,55559
+back forward,27,48900
+back forward,28,43640
+back forward,29,38950
+back forward,30,35272
+back forward,31,32083
+back forward,32,29508
+back forward,33,27758
+back forward,34,25481
+back forward,35,23547
+back forward,36,21447
+back forward,37,19988
+back forward,38,18271
+back forward,39,17006
+back forward,40,15700
+back forward,41,14270
+back forward,42,13398
+back forward,43,12615
+back forward,44,11847
+back forward,45,10755
+back forward,46,10186
+back forward,47,9459
+back forward,48,8637
+back forward,49,8304
+back forward,50,7497
+back forward,51,6871
+back forward,52,6618
+back forward,53,5990
+back forward,54,5567
+back forward,55,5210
+back forward,56,4858
+back forward,57,4653
+back forward,58,4428
+back forward,59,4134
+back forward,60,3730
+back forward,61,3576
+back forward,62,3216
+back forward,63,3207
+back forward,64,2996
+back forward,65,2795
+back forward,66,2701
+back forward,67,2517
+back forward,68,2314
+back forward,69,2273
+back forward,70,2132
+back forward,71,2049
+back forward,72,1920
+back forward,73,1842
+back forward,74,1789
+back forward,75,1706
+back forward,76,1642
+back forward,77,1528
+back forward,78,1439
+back forward,79,1489
+back forward,80,1330
+back forward,81,1335
+back forward,82,1229
+back forward,83,1249
+back forward,84,1172
+back forward,85,1135
+back forward,86,1158
+back forward,87,1009
+back forward,88,962
+back forward,89,925
+back forward,90,939
+back forward,91,865
+back forward,92,826
+back forward,93,768
+back forward,94,782
+back forward,95,789
+back forward,96,714
+back forward,97,702
+back forward,98,671
+back forward,99,643
+back forward,100,595
+back forward,101,5351
+back forward,102,4196
+back forward,103,2942
+back forward,104,2222
+back forward,105,1763
+back forward,106,1517
+back forward,107,1318
+back forward,108,1055
+back forward,109,855
+back forward,110,718
+back forward,111,585
+back forward,112,622
+back forward,113,530
+back forward,114,367
+back forward,115,372
+back forward,116,291
+back forward,117,294
+back forward,118,234
+back forward,119,240
+back forward,120,199
+back forward,121,223
+back forward,122,212
+back forward,123,193
+back forward,124,164
+back forward,125,121
+back forward,126,122
+back forward,127,103
+back forward,128,112
+back forward,129,80
+back forward,130,98
+back forward,131,82
+back forward,132,84
+back forward,133,76
+back forward,134,89
+back forward,135,67
+back forward,136,69
+back forward,137,55
+back forward,138,49
+back forward,139,48
+back forward,140,60
+back forward,141,46
+back forward,142,45
+back forward,143,38
+back forward,144,34
+back forward,145,42
+back forward,146,42
+back forward,147,36
+back forward,148,34
+back forward,149,26
+back forward,150,23
+back forward,151,1173
+navigate,1,364578
+navigate,2,1753755
+navigate,3,3433808
+navigate,4,5080870
+navigate,5,5914535
+navigate,6,6094774
+navigate,7,5985954
+navigate,8,5758985
+navigate,9,5474799
+navigate,10,5147617
+navigate,11,4765113
+navigate,12,4339122
+navigate,13,3915082
+navigate,14,3512760
+navigate,15,3160204
+navigate,16,2887075
+navigate,17,2665116
+navigate,18,2451420
+navigate,19,2206453
+navigate,20,1941086
+navigate,21,1728084
+navigate,22,1545886
+navigate,23,1386935
+navigate,24,1250645
+navigate,25,1128914
+navigate,26,1021798
+navigate,27,928461
+navigate,28,845193
+navigate,29,770829
+navigate,30,706100
+navigate,31,647635
+navigate,32,597649
+navigate,33,550128
+navigate,34,508343
+navigate,35,468820
+navigate,36,436555
+navigate,37,404817
+navigate,38,376818
+navigate,39,351467
+navigate,40,328691
+navigate,41,306228
+navigate,42,287263
+navigate,43,268396
+navigate,44,251611
+navigate,45,235505
+navigate,46,220686
+navigate,47,206675
+navigate,48,194276
+navigate,49,182122
+navigate,50,171284
+navigate,51,160255
+navigate,52,150728
+navigate,53,141619
+navigate,54,133515
+navigate,55,125848
+navigate,56,119005
+navigate,57,111828
+navigate,58,106003
+navigate,59,99313
+navigate,60,94633
+navigate,61,89391
+navigate,62,84920
+navigate,63,80163
+navigate,64,76223
+navigate,65,72431
+navigate,66,69058
+navigate,67,65526
+navigate,68,62046
+navigate,69,59272
+navigate,70,55940
+navigate,71,53687
+navigate,72,51421
+navigate,73,49054
+navigate,74,47110
+navigate,75,44634
+navigate,76,42954
+navigate,77,41357
+navigate,78,39748
+navigate,79,37547
+navigate,80,36562
+navigate,81,35128
+navigate,82,33746
+navigate,83,32549
+navigate,84,31409
+navigate,85,30393
+navigate,86,29075
+navigate,87,28223
+navigate,88,27274
+navigate,89,26095
+navigate,90,25328
+navigate,91,24398
+navigate,92,23752
+navigate,93,22664
+navigate,94,22116
+navigate,95,21268
+navigate,96,20927
+navigate,97,19911
+navigate,98,19296
+navigate,99,18947
+navigate,100,18376
+navigate,101,161112
+navigate,102,132236
+navigate,103,98481
+navigate,104,75446
+navigate,105,59189
+navigate,106,49847
+navigate,107,42404
+navigate,108,35031
+navigate,109,28976
+navigate,110,25187
+navigate,111,22984
+navigate,112,22129
+navigate,113,18709
+navigate,114,15716
+navigate,115,13604
+navigate,116,11912
+navigate,117,10654
+navigate,118,9657
+navigate,119,8530
+navigate,120,7956
+navigate,121,8082
+navigate,122,8215
+navigate,123,7314
+navigate,124,6042
+navigate,125,5468
+navigate,126,6797
+navigate,127,4697
+navigate,128,4255
+navigate,129,3778
+navigate,130,3747
+navigate,131,3600
+navigate,132,3112
+navigate,133,2863
+navigate,134,2635
+navigate,135,2367
+navigate,136,2258
+navigate,137,2075
+navigate,138,1926
+navigate,139,1712
+navigate,140,1693
+navigate,141,1578
+navigate,142,1448
+navigate,143,1377
+navigate,144,1307
+navigate,145,1204
+navigate,146,1147
+navigate,147,1074
+navigate,148,983
+navigate,149,974
+navigate,150,948
+navigate,151,32863
+reload,1,3082
+reload,2,65475
+reload,3,170289
+reload,4,216801
+reload,5,226440
+reload,6,218894
+reload,7,209700
+reload,8,197584
+reload,9,179367
+reload,10,161407
+reload,11,143033
+reload,12,126148
+reload,13,111001
+reload,14,98293
+reload,15,86916
+reload,16,76255
+reload,17,66077
+reload,18,57779
+reload,19,50344
+reload,20,44225
+reload,21,39438
+reload,22,34593
+reload,23,31254
+reload,24,27606
+reload,25,24738
+reload,26,22147
+reload,27,20028
+reload,28,18203
+reload,29,16370
+reload,30,14929
+reload,31,13493
+reload,32,12563
+reload,33,11534
+reload,34,10424
+reload,35,9679
+reload,36,9112
+reload,37,8449
+reload,38,7598
+reload,39,6968
+reload,40,6552
+reload,41,6074
+reload,42,5943
+reload,43,5693
+reload,44,5380
+reload,45,5098
+reload,46,4777
+reload,47,4538
+reload,48,4042
+reload,49,3797
+reload,50,3545
+reload,51,3320
+reload,52,3172
+reload,53,2898
+reload,54,2711
+reload,55,2610
+reload,56,2519
+reload,57,2327
+reload,58,2247
+reload,59,2142
+reload,60,1979
+reload,61,1914
+reload,62,1878
+reload,63,1766
+reload,64,1773
+reload,65,1776
+reload,66,1672
+reload,67,1575
+reload,68,1450
+reload,69,1365
+reload,70,1473
+reload,71,1637
+reload,72,1505
+reload,73,1408
+reload,74,1413
+reload,75,1280
+reload,76,1263
+reload,77,1223
+reload,78,1164
+reload,79,1126
+reload,80,1010
+reload,81,993
+reload,82,965
+reload,83,940
+reload,84,906
+reload,85,884
+reload,86,879
+reload,87,787
+reload,88,750
+reload,89,737
+reload,90,723
+reload,91,708
+reload,92,688
+reload,93,686
+reload,94,671
+reload,95,702
+reload,96,685
+reload,97,692
+reload,98,639
+reload,99,609
+reload,100,573
+reload,101,7456
+reload,102,7886
+reload,103,6807
+reload,104,5035
+reload,105,2713
+reload,106,2208
+reload,107,1723
+reload,108,1261
+reload,109,1104
+reload,110,846
+reload,111,803
+reload,112,858
+reload,113,755
+reload,114,620
+reload,115,540
+reload,116,420
+reload,117,433
+reload,118,351
+reload,119,321
+reload,120,299
+reload,121,305
+reload,122,284
+reload,123,263
+reload,124,204
+reload,125,193
+reload,126,177
+reload,127,183
+reload,128,164
+reload,129,137
+reload,130,168
+reload,131,143
+reload,132,127
+reload,133,122
+reload,134,115
+reload,135,109
+reload,136,87
+reload,137,100
+reload,138,92
+reload,139,88
+reload,140,76
+reload,141,70
+reload,142,68
+reload,143,78
+reload,144,60
+reload,145,68
+reload,146,51
+reload,147,55
+reload,148,46
+reload,149,45
+reload,150,49
+reload,151,2035
