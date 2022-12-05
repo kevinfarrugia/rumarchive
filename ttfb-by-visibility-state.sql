@@ -1,9 +1,6 @@
 # standardSQL
 # combined histogram showing TTFB vs different visibility states
 
-# ATTN: The total number of beacons for FCPHISTOGRAM does not equal the total number 
-# of beacon counts for the other histograms and disproportionately affects 'hidden' state.
-
 CREATE TEMPORARY FUNCTION getBuckets(payload STRING)
 RETURNS ARRAY<STRUCT<bucket INT64, count INT64>>
 LANGUAGE js AS '''
@@ -17,14 +14,14 @@ LANGUAGE js AS '''
 
 SELECT
   VISIBILITYSTATE,
-  FCPBUCKETS.bucket AS BUCKET,
-  SUM(FCPBUCKETS.count) AS COUNT
+  TTFBBUCKETS.bucket AS BUCKET,
+  SUM(TTFBBUCKETS.count) AS COUNT
 FROM (
   SELECT
     VISIBILITYSTATE,
-    `akamai-mpulse-rumarchive.rumarchive.COMBINE_HISTOGRAMS`(ARRAY_AGG(FCPHISTOGRAM)) AS FCPHISTOGRAM
+    `akamai-mpulse-rumarchive.rumarchive.COMBINE_HISTOGRAMS`(ARRAY_AGG(TTFBHISTOGRAM)) AS TTFBHISTOGRAM
   FROM 
-    `akamai-mpulse-rumarchive.rumarchive.rumarchive_page_loads`
+    `akamai-mpulse-rumarchive.rumarchive.rumarchive_page_loads` TABLESAMPLE SYSTEM(50 PERCENT)
   WHERE
     DATE = '2022-09-30' AND
     BEACONTYPE = 'page view'
@@ -32,7 +29,7 @@ FROM (
     VISIBILITYSTATE
 )
 CROSS JOIN 
-  UNNEST(getBuckets(FCPHISTOGRAM)) AS FCPBUCKETS
+  UNNEST(getBuckets(TTFBHISTOGRAM)) AS TTFBBUCKETS
 GROUP BY
   VISIBILITYSTATE,
   BUCKET
